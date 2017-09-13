@@ -1,0 +1,350 @@
+{
+  "id": 1,
+  "names": [
+    {
+      "name": "かいじゅう",
+      "language": {
+        "url": "http://pokeapi.co/api/v2/language/1/",
+        "name": "ja"
+      }
+    },
+    {
+      "name": "Monstrueux",
+      "language": {
+        "url": "http://pokeapi.co/api/v2/language/5/",
+        "name": "fr"
+      }
+    },
+    {
+      "name": "Monster",
+      "language": {
+        "url": "http://pokeapi.co/api/v2/language/6/",
+        "name": "de"
+      }
+    },
+    {
+      "name": "Monstruo",
+      "language": {
+        "url": "http://pokeapi.co/api/v2/language/7/",
+        "name": "es"
+      }
+    },
+    {
+      "name": "Mostro",
+      "language": {
+        "url": "http://pokeapi.co/api/v2/language/8/",
+        "name": "it"
+      }
+    },
+    {
+      "name": "Monster",
+      "language": {
+        "url": "http://pokeapi.co/api/v2/language/9/",
+        "name": "en"
+      }
+    }
+  ],
+  "name": "monster",
+  "pokemon_species": [
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/1/",
+      "name": "bulbasaur"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/2/",
+      "name": "ivysaur"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/3/",
+      "name": "venusaur"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/4/",
+      "name": "charmander"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/5/",
+      "name": "charmeleon"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/6/",
+      "name": "charizard"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/7/",
+      "name": "squirtle"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/8/",
+      "name": "wartortle"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/9/",
+      "name": "blastoise"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/29/",
+      "name": "nidoran-f"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/32/",
+      "name": "nidoran-m"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/33/",
+      "name": "nidorino"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/34/",
+      "name": "nidoking"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/79/",
+      "name": "slowpoke"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/80/",
+      "name": "slowbro"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/104/",
+      "name": "cubone"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/105/",
+      "name": "marowak"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/108/",
+      "name": "lickitung"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/111/",
+      "name": "rhyhorn"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/112/",
+      "name": "rhydon"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/115/",
+      "name": "kangaskhan"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/131/",
+      "name": "lapras"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/143/",
+      "name": "snorlax"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/152/",
+      "name": "chikorita"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/153/",
+      "name": "bayleef"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/154/",
+      "name": "meganium"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/158/",
+      "name": "totodile"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/159/",
+      "name": "croconaw"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/160/",
+      "name": "feraligatr"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/179/",
+      "name": "mareep"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/180/",
+      "name": "flaaffy"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/181/",
+      "name": "ampharos"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/199/",
+      "name": "slowking"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/246/",
+      "name": "larvitar"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/247/",
+      "name": "pupitar"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/248/",
+      "name": "tyranitar"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/252/",
+      "name": "treecko"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/253/",
+      "name": "grovyle"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/254/",
+      "name": "sceptile"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/258/",
+      "name": "mudkip"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/259/",
+      "name": "marshtomp"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/260/",
+      "name": "swampert"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/293/",
+      "name": "whismur"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/294/",
+      "name": "loudred"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/295/",
+      "name": "exploud"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/304/",
+      "name": "aron"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/305/",
+      "name": "lairon"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/306/",
+      "name": "aggron"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/357/",
+      "name": "tropius"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/387/",
+      "name": "turtwig"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/388/",
+      "name": "grotle"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/389/",
+      "name": "torterra"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/408/",
+      "name": "cranidos"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/409/",
+      "name": "rampardos"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/410/",
+      "name": "shieldon"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/411/",
+      "name": "bastiodon"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/443/",
+      "name": "gible"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/444/",
+      "name": "gabite"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/445/",
+      "name": "garchomp"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/459/",
+      "name": "snover"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/460/",
+      "name": "abomasnow"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/463/",
+      "name": "lickilicky"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/464/",
+      "name": "rhyperior"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/610/",
+      "name": "axew"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/611/",
+      "name": "fraxure"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/612/",
+      "name": "haxorus"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/621/",
+      "name": "druddigon"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/694/",
+      "name": "helioptile"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/695/",
+      "name": "heliolisk"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/696/",
+      "name": "tyrunt"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/697/",
+      "name": "tyrantrum"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/698/",
+      "name": "amaura"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/699/",
+      "name": "aurorus"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/712/",
+      "name": "bergmite"
+    },
+    {
+      "url": "http://pokeapi.co/api/v2/pokemon-species/713/",
+      "name": "avalugg"
+    }
+  ]
+}

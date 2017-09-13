@@ -1,0 +1,1 @@
+{"name": "radar-on", "names": [{"name": "Durch Benutzung des Pokéradars", "language": {"url": "http://pokeapi.co/api/v2/language/6/", "name": "de"}}, {"name": "Using PokéRadar", "language": {"url": "http://pokeapi.co/api/v2/language/9/", "name": "en"}}], "condition": {"url": "http://pokeapi.co/api/v2/encounter-condition/3/", "name": "radar"}, "id": 6}

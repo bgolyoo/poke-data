@@ -1,0 +1,1 @@
+{"name": "time-day", "names": [{"name": "Am Tag", "language": {"url": "http://pokeapi.co/api/v2/language/6/", "name": "de"}}, {"name": "During the day", "language": {"url": "http://pokeapi.co/api/v2/language/9/", "name": "en"}}], "condition": {"url": "http://pokeapi.co/api/v2/encounter-condition/2/", "name": "time"}, "id": 4}

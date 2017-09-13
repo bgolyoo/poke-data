@@ -1,0 +1,1 @@
+{"name": "radio-off", "names": [{"name": "Radio aus", "language": {"url": "http://pokeapi.co/api/v2/language/6/", "name": "de"}}, {"name": "Radio off", "language": {"url": "http://pokeapi.co/api/v2/language/9/", "name": "en"}}], "condition": {"url": "http://pokeapi.co/api/v2/encounter-condition/5/", "name": "radio"}, "id": 14}

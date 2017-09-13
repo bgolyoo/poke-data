@@ -1,0 +1,1 @@
+{"moves": [{"url": "http://pokeapi.co/api/v2/move/18/", "name": "whirlwind"}, {"url": "http://pokeapi.co/api/v2/move/46/", "name": "roar"}], "descriptions": [{"description": "Forces target to switch out", "language": {"url": "http://pokeapi.co/api/v2/language/9/", "name": "en"}}], "name": "force-switch", "id": 12}

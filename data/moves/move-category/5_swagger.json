@@ -1,0 +1,1 @@
+{"moves": [{"url": "http://pokeapi.co/api/v2/move/207/", "name": "swagger"}, {"url": "http://pokeapi.co/api/v2/move/260/", "name": "flatter"}], "descriptions": [{"description": "No damage; inflicts status ailment; raises target's stats", "language": {"url": "http://pokeapi.co/api/v2/language/9/", "name": "en"}}], "name": "swagger", "id": 5}

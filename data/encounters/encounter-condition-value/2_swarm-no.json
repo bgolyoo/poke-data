@@ -1,0 +1,1 @@
+{"name": "swarm-no", "names": [{"name": "Außerhalb eines Schwarms", "language": {"url": "http://pokeapi.co/api/v2/language/6/", "name": "de"}}, {"name": "Not during a swarm", "language": {"url": "http://pokeapi.co/api/v2/language/9/", "name": "en"}}], "condition": {"url": "http://pokeapi.co/api/v2/encounter-condition/1/", "name": "swarm"}, "id": 2}

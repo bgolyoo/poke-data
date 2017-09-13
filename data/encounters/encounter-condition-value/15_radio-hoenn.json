@@ -1,0 +1,1 @@
+{"name": "radio-hoenn", "names": [{"name": "Hoenn-Sound im Radio", "language": {"url": "http://pokeapi.co/api/v2/language/6/", "name": "de"}}, {"name": "Hoenn radio", "language": {"url": "http://pokeapi.co/api/v2/language/9/", "name": "en"}}], "condition": {"url": "http://pokeapi.co/api/v2/encounter-condition/5/", "name": "radio"}, "id": 15}

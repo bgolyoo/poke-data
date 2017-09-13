@@ -1,0 +1,1 @@
+{"name": "time-night", "names": [{"name": "In der Nacht", "language": {"url": "http://pokeapi.co/api/v2/language/6/", "name": "de"}}, {"name": "At night", "language": {"url": "http://pokeapi.co/api/v2/language/9/", "name": "en"}}], "condition": {"url": "http://pokeapi.co/api/v2/encounter-condition/2/", "name": "time"}, "id": 5}

@@ -1,0 +1,1 @@
+{"name": "time-morning", "names": [{"name": "Am Morgen", "language": {"url": "http://pokeapi.co/api/v2/language/6/", "name": "de"}}, {"name": "In the morning", "language": {"url": "http://pokeapi.co/api/v2/language/9/", "name": "en"}}], "condition": {"url": "http://pokeapi.co/api/v2/encounter-condition/2/", "name": "time"}, "id": 3}
