@@ -48,6 +48,7 @@ def convert(resource, target):
             data_str = data_str.replace(" ", "")
             data_str = data_str.replace('"id"', '"_id"')
             data_str = data_str.replace("http://pokeapi.co/api/v2", "")
+            data_str = data_str.replace("https://raw.githubusercontent.com/PokeAPI/sprites", "https://raw.githubusercontent.com/bgolyoo/poke-data")
             lines.append(data_str)
     dir_name = "./converted_resources"
     try:
